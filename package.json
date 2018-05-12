@@ -1,0 +1,14 @@
+{
+  "name": "gbf-bot",
+  "version": "1.0.0",
+  "description": "discord, bot, dicordbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NGayau",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
